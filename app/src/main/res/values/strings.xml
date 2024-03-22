@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">domaci</string>
+    <string name="input_text">Kada ce MarKO uRadiTI zadAtaK?Jer ga TrEba Poslati.Javi mu.</string>
+    <string name="count_button">Izracunaj</string>
+
+    <string name="brojac">Recenica ima %1$d velikih slova koja nisu na pocetku recenice</string>
+    <string name="back_button"></string>
+
+</resources>
